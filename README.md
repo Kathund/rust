@@ -1,2 +1,2 @@
-# rust
-I do stuff in rust
+# ~~rust~~ go
+I do stuff in ~~rust~~ go 
